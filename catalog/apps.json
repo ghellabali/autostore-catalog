@@ -85,8 +85,8 @@
     "packageName": "systems.sieber.fsclock",
     "versionCode": 38,
     "versionName": "2.0",
-    "apkUrl": "http://127.0.0.1:8765/apks/systems.sieber.fsclock-38.apk",
-    "iconUrl": "http://127.0.0.1:8765/icons/systems.sieber.fsclock.png",
+    "apkUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/systems.sieber.fsclock-38.apk",
+    "iconUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/systems.sieber.fsclock.png",
     "description": "Clock"
   },
   {
