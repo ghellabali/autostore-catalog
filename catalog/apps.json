@@ -185,8 +185,8 @@
     "packageName": "app.revanced.android.gms",
     "versionCode": 250932004,
     "versionName": "0.3.13.2.250932",
-    "apkUrl": "http://127.0.0.1:8765/apks/app.revanced.android.gms-250932004.apk",
-    "iconUrl": "http://127.0.0.1:8765/icons/app.revanced.android.gms.png",
+    "apkUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/app.revanced.android.gms-250932004.apk",
+    "iconUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/app.revanced.android.gms.png",
     "description": "microG Services"
   },
   {
