@@ -45,8 +45,8 @@
     "packageName": "com.AutoSentry.Chouaib",
     "versionCode": 1,
     "versionName": "1.0",
-    "apkUrl": "http://127.0.0.1:8765/apks/com.AutoSentry.Chouaib-1.apk",
-    "iconUrl": "http://127.0.0.1:8765/icons/com.AutoSentry.Chouaib.png",
+    "apkUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/com.AutoSentry.Chouaib-1.apk",
+    "iconUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/com.AutoSentry.Chouaib.png",
     "description": "AutoSentry"
   },
   {
