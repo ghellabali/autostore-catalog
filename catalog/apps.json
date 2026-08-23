@@ -115,8 +115,8 @@
     "packageName": "com.newfelbougueroua.drivemode",
     "versionCode": 1,
     "versionName": "1.0",
-    "apkUrl": "http://127.0.0.1:8765/apks/com.newfelbougueroua.drivemode-1.apk",
-    "iconUrl": "http://127.0.0.1:8765/icons/com.newfelbougueroua.drivemode.png",
+    "apkUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/com.newfelbougueroua.drivemode-1.apk",
+    "iconUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/com.newfelbougueroua.drivemode.png",
     "description": "DriveMode [Dev: TG:naoufel203]"
   },
   {
