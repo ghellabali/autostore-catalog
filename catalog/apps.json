@@ -35,8 +35,8 @@
     "packageName": "cn.manstep.phonemirrorBox",
     "versionCode": 2112232222,
     "versionName": "2025.03.19.1126",
-    "apkUrl": "http://127.0.0.1:8765/apks/cn.manstep.phonemirrorBox-2112232222.apk",
-    "iconUrl": "http://127.0.0.1:8765/icons/cn.manstep.phonemirrorBox.png",
+    "apkUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/cn.manstep.phonemirrorBox-2112232222.apk",
+    "iconUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/cn.manstep.phonemirrorBox.png",
     "description": "AutoKit"
   },
   {
