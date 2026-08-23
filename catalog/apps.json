@@ -265,7 +265,7 @@
     "packageName": "com.ghellab.coolraysunroof",
     "versionCode": 4,
     "versionName": "1.1.2-branding",
-    "apkUrl": "http://127.0.0.1:8765/apks/com.ghellab.coolraysunroof-4.apk",
+    "apkUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/com.ghellab.coolraysunroof-4.apk",
     "iconUrl": "",
     "description": "Sunroof Test"
   },
