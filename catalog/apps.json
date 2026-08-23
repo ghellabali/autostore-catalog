@@ -293,9 +293,9 @@
     "id": "com_biomes_vanced",
     "name": "Vanced",
     "packageName": "com.biomes.vanced",
-    "versionCode": 50680312,
-    "versionName": "5.6.80.312",
-    "apkUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/com.biomes.vanced-50680312.apk",
+    "versionCode": 90580396,
+    "versionName": "5.5.80.396",
+    "apkUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/com.biomes.vanced-90580396.apk",
     "iconUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/com.biomes.vanced.png",
     "description": "Vanced"
   },
