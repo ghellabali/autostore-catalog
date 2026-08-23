@@ -235,8 +235,8 @@
     "packageName": "org.smarttube.stable",
     "versionCode": 2384,
     "versionName": "31.94",
-    "apkUrl": "http://127.0.0.1:8765/apks/org.smarttube.stable-2384.apk",
-    "iconUrl": "http://127.0.0.1:8765/icons/org.smarttube.stable.png",
+    "apkUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/org.smarttube.stable-2384.apk",
+    "iconUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/org.smarttube.stable.png",
     "description": "SmartTube"
   },
   {
