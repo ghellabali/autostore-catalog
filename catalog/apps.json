@@ -325,8 +325,8 @@
     "packageName": "ru.yandex.androidkeyboard",
     "versionCode": 30390300,
     "versionName": "39.3",
-    "apkUrl": "http://127.0.0.1:8765/apks/ru.yandex.androidkeyboard-30390300.apk",
-    "iconUrl": "http://127.0.0.1:8765/icons/ru.yandex.androidkeyboard.png",
+    "apkUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/ru.yandex.androidkeyboard-30390300.apk",
+    "iconUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/ru.yandex.androidkeyboard.png",
     "description": "Yandex Keyboard"
   },
   {
