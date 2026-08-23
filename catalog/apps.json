@@ -315,8 +315,8 @@
     "packageName": "com.ilv.vradio",
     "versionCode": 90208008,
     "versionName": "2.8.8",
-    "apkUrl": "http://127.0.0.1:8765/apks/com.ilv.vradio-90208008.apk",
-    "iconUrl": "http://127.0.0.1:8765/icons/com.ilv.vradio.png",
+    "apkUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/com.ilv.vradio-90208008.apk",
+    "iconUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/com.ilv.vradio.png",
     "description": "VRadio"
   },
   {
