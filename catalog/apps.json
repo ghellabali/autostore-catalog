@@ -5,8 +5,8 @@
     "packageName": "dz.radioalgerie.algerian_radio",
     "versionCode": 79,
     "versionName": "1.0.4",
-    "apkUrl": "http://127.0.0.1:8765/apks/dz.radioalgerie.algerian_radio-79.apk",
-    "iconUrl": "http://127.0.0.1:8765/icons/dz.radioalgerie.algerian_radio.png",
+    "apkUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/dz.radioalgerie.algerian_radio-79.apk",
+    "iconUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/dz.radioalgerie.algerian_radio.png",
     "description": "Algerian radio"
   },
   {
