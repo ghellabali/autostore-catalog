@@ -1,0 +1,362 @@
+[
+  {
+    "id": "dz_radioalgerie_algerian_radio",
+    "name": "Algerian radio",
+    "packageName": "dz.radioalgerie.algerian_radio",
+    "versionCode": 79,
+    "versionName": "1.0.4",
+    "apkUrl": "http://127.0.0.1:8765/apks/dz.radioalgerie.algerian_radio-79.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/dz.radioalgerie.algerian_radio.png",
+    "description": "Algerian radio"
+  },
+  {
+    "id": "com_andrerinas_headunitrevived",
+    "name": "Android Auto",
+    "packageName": "com.andrerinas.headunitrevived",
+    "versionCode": 52,
+    "versionName": "2.0.2-beta2",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.andrerinas.headunitrevived-52.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/com.andrerinas.headunitrevived.png",
+    "description": "Android Auto"
+  },
+  {
+    "id": "com_bilang042_aureseyes",
+    "name": "Aures Eyes",
+    "packageName": "com.bilang042.aureseyes",
+    "versionCode": 3,
+    "versionName": "1.2",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.bilang042.aureseyes-3.apk",
+    "iconUrl": "",
+    "description": "Aures Eyes"
+  },
+  {
+    "id": "cn_manstep_phonemirrorBox",
+    "name": "AutoKit",
+    "packageName": "cn.manstep.phonemirrorBox",
+    "versionCode": 2112232222,
+    "versionName": "2025.03.19.1126",
+    "apkUrl": "http://127.0.0.1:8765/apks/cn.manstep.phonemirrorBox-2112232222.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/cn.manstep.phonemirrorBox.png",
+    "description": "AutoKit"
+  },
+  {
+    "id": "com_AutoSentry_Chouaib",
+    "name": "AutoSentry",
+    "packageName": "com.AutoSentry.Chouaib",
+    "versionCode": 1,
+    "versionName": "1.0",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.AutoSentry.Chouaib-1.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/com.AutoSentry.Chouaib.png",
+    "description": "AutoSentry"
+  },
+  {
+    "id": "com_ayah",
+    "name": "Ayah",
+    "packageName": "com.ayah",
+    "versionCode": 5370,
+    "versionName": "5.3.7",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.ayah-5370.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/com.ayah.png",
+    "description": "Ayah"
+  },
+  {
+    "id": "app_2",
+    "name": "Car Radio+",
+    "packageName": "com.example.radio",
+    "versionCode": 5,
+    "versionName": "1.4.0",
+    "apkUrl": "https://example.com/apks/com.example.radio-5.apk",
+    "iconUrl": "https://example.com/icons/com.example.radio.png",
+    "description": "FM, USB, and Bluetooth playback with large car controls."
+  },
+  {
+    "id": "com_android_chrome",
+    "name": "Chrome",
+    "packageName": "com.android.chrome",
+    "versionCode": 720417920,
+    "versionName": "138.0.7204.179",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.android.chrome-720417920.apk",
+    "iconUrl": "",
+    "description": "Chrome"
+  },
+  {
+    "id": "systems_sieber_fsclock",
+    "name": "Clock",
+    "packageName": "systems.sieber.fsclock",
+    "versionCode": 38,
+    "versionName": "2.0",
+    "apkUrl": "http://127.0.0.1:8765/apks/systems.sieber.fsclock-38.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/systems.sieber.fsclock.png",
+    "description": "Clock"
+  },
+  {
+    "id": "app_3",
+    "name": "Dash Cam",
+    "packageName": "com.example.dashcam",
+    "versionCode": 8,
+    "versionName": "3.1.2",
+    "apkUrl": "https://example.com/apks/com.example.dashcam-8.apk",
+    "iconUrl": "https://example.com/icons/com.example.dashcam.png",
+    "description": "Loop recording and emergency lock for the front camera."
+  },
+  {
+    "id": "com_sneig_livedrama",
+    "name": "Drama Live",
+    "packageName": "com.sneig.livedrama",
+    "versionCode": 187,
+    "versionName": "13.0.3",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.sneig.livedrama-187.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/com.sneig.livedrama.png",
+    "description": "Drama Live"
+  },
+  {
+    "id": "com_newfelbougueroua_drivemode",
+    "name": "DriveMode [Dev: TG:naoufel203]",
+    "packageName": "com.newfelbougueroua.drivemode",
+    "versionCode": 1,
+    "versionName": "1.0",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.newfelbougueroua.drivemode-1.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/com.newfelbougueroua.drivemode.png",
+    "description": "DriveMode [Dev: TG:naoufel203]"
+  },
+  {
+    "id": "com_bjornfree_drivemode",
+    "name": "DriveMode · GHELLAB ALI",
+    "packageName": "com.bjornfree.drivemode",
+    "versionCode": 8,
+    "versionName": "1.2.0-overlay-fix",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.bjornfree.drivemode-8.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/com.bjornfree.drivemode.png",
+    "description": "DriveMode · GHELLAB ALI"
+  },
+  {
+    "id": "com_wssc_simpleclock",
+    "name": "Flip Clock",
+    "packageName": "com.wssc.simpleclock",
+    "versionCode": 1549,
+    "versionName": "1.5.4.9",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.wssc.simpleclock-1549.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/com.wssc.simpleclock.png",
+    "description": "Flip Clock"
+  },
+  {
+    "id": "com_coolray_tasks",
+    "name": "Gestionnaire des tâches",
+    "packageName": "com.coolray.tasks",
+    "versionCode": 2,
+    "versionName": "1.1",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.coolray.tasks-2.apk",
+    "iconUrl": "",
+    "description": "Gestionnaire des tâches"
+  },
+  {
+    "id": "com_flymeauto_apkinstaller",
+    "name": "Installateur APK",
+    "packageName": "com.flymeauto.apkinstaller",
+    "versionCode": 1,
+    "versionName": "1.0",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.flymeauto.apkinstaller-1.apk",
+    "iconUrl": "",
+    "description": "Installateur APK"
+  },
+  {
+    "id": "com_lynx_iptv",
+    "name": "Lynx",
+    "packageName": "com.lynx.iptv",
+    "versionCode": 10000011,
+    "versionName": "1.20",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.lynx.iptv-10000011.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/com.lynx.iptv.png",
+    "description": "Lynx"
+  },
+  {
+    "id": "com_google_android_apps_maps",
+    "name": "Maps",
+    "packageName": "com.google.android.apps.maps",
+    "versionCode": 1066214896,
+    "versionName": "11.1.3",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.google.android.apps.maps-1066214896.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/com.google.android.apps.maps.png",
+    "description": "Maps"
+  },
+  {
+    "id": "app_revanced_android_gms",
+    "name": "microG Services",
+    "packageName": "app.revanced.android.gms",
+    "versionCode": 250932004,
+    "versionName": "0.3.13.2.250932",
+    "apkUrl": "http://127.0.0.1:8765/apks/app.revanced.android.gms-250932004.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/app.revanced.android.gms.png",
+    "description": "microG Services"
+  },
+  {
+    "id": "com_touchtype_swiftkey",
+    "name": "Microsoft SwiftKey Keyboard",
+    "packageName": "com.touchtype.swiftkey",
+    "versionCode": 1230831920,
+    "versionName": "9.10.29.19",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.touchtype.swiftkey-1230831920.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/com.touchtype.swiftkey.png",
+    "description": "Microsoft SwiftKey Keyboard"
+  },
+  {
+    "id": "app_1",
+    "name": "Navigation Pro",
+    "packageName": "com.example.navpro",
+    "versionCode": 2,
+    "versionName": "2.0.0",
+    "apkUrl": "https://example.com/apks/com.example.navpro-2.apk",
+    "iconUrl": "https://example.com/icons/com.example.navpro.png",
+    "description": "Offline maps and turn-by-turn guidance for the dash."
+  },
+  {
+    "id": "com_huawei_maps_app",
+    "name": "Petal Maps",
+    "packageName": "com.huawei.maps.app",
+    "versionCode": 40000203,
+    "versionName": "4.0.0.203",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.huawei.maps.app-40000203.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/com.huawei.maps.app.png",
+    "description": "Petal Maps"
+  },
+  {
+    "id": "com_android_settings",
+    "name": "Settings",
+    "packageName": "com.android.settings",
+    "versionCode": 28,
+    "versionName": "9",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.android.settings-28.apk",
+    "iconUrl": "",
+    "description": "Settings"
+  },
+  {
+    "id": "org_smarttube_stable",
+    "name": "SmartTube",
+    "packageName": "org.smarttube.stable",
+    "versionCode": 2384,
+    "versionName": "31.94",
+    "apkUrl": "http://127.0.0.1:8765/apks/org.smarttube.stable-2384.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/org.smarttube.stable.png",
+    "description": "SmartTube"
+  },
+  {
+    "id": "com_suding_speedplay",
+    "name": "SpeedPlay",
+    "packageName": "com.suding.speedplay",
+    "versionCode": 1010,
+    "versionName": "sd_2.0.6",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.suding.speedplay-1010.apk",
+    "iconUrl": "",
+    "description": "SpeedPlay"
+  },
+  {
+    "id": "com_dmkcv_sunray",
+    "name": "Sunray Toolkit",
+    "packageName": "com.dmkcv.sunray",
+    "versionCode": 107,
+    "versionName": "1.2",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.dmkcv.sunray-107.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/com.dmkcv.sunray.png",
+    "description": "Sunray Toolkit"
+  },
+  {
+    "id": "com_ghellab_coolraysunroof",
+    "name": "Sunroof Test",
+    "packageName": "com.ghellab.coolraysunroof",
+    "versionCode": 4,
+    "versionName": "1.1.2-branding",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.ghellab.coolraysunroof-4.apk",
+    "iconUrl": "",
+    "description": "Sunroof Test"
+  },
+  {
+    "id": "com_swag_performance_installer",
+    "name": "SWAG APP",
+    "packageName": "com.swag.performance.installer",
+    "versionCode": 1,
+    "versionName": "1.0",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.swag.performance.installer-1.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/com.swag.performance.installer.png",
+    "description": "SWAG APP"
+  },
+  {
+    "id": "com_alex_timezoneset",
+    "name": "Time zone",
+    "packageName": "com.alex.timezoneset",
+    "versionCode": 99999,
+    "versionName": "99.0",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.alex.timezoneset-99999.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/com.alex.timezoneset.png",
+    "description": "Time zone"
+  },
+  {
+    "id": "com_biomes_vanced",
+    "name": "Vanced",
+    "packageName": "com.biomes.vanced",
+    "versionCode": 90580396,
+    "versionName": "5.5.80.396",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.biomes.vanced-90580396.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/com.biomes.vanced.png",
+    "description": "Vanced"
+  },
+  {
+    "id": "org_videolan_vlc",
+    "name": "VLC",
+    "packageName": "org.videolan.vlc",
+    "versionCode": 13060505,
+    "versionName": "3.6.5",
+    "apkUrl": "http://127.0.0.1:8765/apks/org.videolan.vlc-13060505.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/org.videolan.vlc.png",
+    "description": "VLC"
+  },
+  {
+    "id": "com_ilv_vradio",
+    "name": "VRadio",
+    "packageName": "com.ilv.vradio",
+    "versionCode": 90208008,
+    "versionName": "2.8.8",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.ilv.vradio-90208008.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/com.ilv.vradio.png",
+    "description": "VRadio"
+  },
+  {
+    "id": "ru_yandex_androidkeyboard",
+    "name": "Yandex Keyboard",
+    "packageName": "ru.yandex.androidkeyboard",
+    "versionCode": 30390300,
+    "versionName": "39.3",
+    "apkUrl": "http://127.0.0.1:8765/apks/ru.yandex.androidkeyboard-30390300.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/ru.yandex.androidkeyboard.png",
+    "description": "Yandex Keyboard"
+  },
+  {
+    "id": "com_hexputilities_youtubelite",
+    "name": "YouTube Lite",
+    "packageName": "com.hexputilities.youtubelite",
+    "versionCode": 2,
+    "versionName": "1.1",
+    "apkUrl": "http://127.0.0.1:8765/apks/com.hexputilities.youtubelite-2.apk",
+    "iconUrl": "http://127.0.0.1:8765/icons/com.hexputilities.youtubelite.png",
+    "description": "YouTube Lite"
+  },
+  {
+    "id": "app_morphe_android_youtube",
+    "name": "YouTube Morphe",
+    "packageName": "app.morphe.android.youtube",
+    "versionCode": 2147483647,
+    "versionName": "21.14.484",
+    "apkUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/app.morphe.android.youtube-2147483647.apk",
+    "iconUrl": "",
+    "description": "YouTube Morphe"
+  },
+  {
+    "id": "app_revanced_android_youtube",
+    "name": "YouTube ReVanced",
+    "packageName": "app.revanced.android.youtube",
+    "versionCode": 1557278144,
+    "versionName": "20.40.45",
+    "apkUrl": "http://127.0.0.1:8765/apks/app.revanced.android.youtube-1557278144.apk",
+    "iconUrl": "",
+    "description": "YouTube ReVanced"
+  }
+]
