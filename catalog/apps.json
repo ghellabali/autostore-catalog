@@ -215,8 +215,8 @@
     "packageName": "com.huawei.maps.app",
     "versionCode": 40000203,
     "versionName": "4.0.0.203",
-    "apkUrl": "http://127.0.0.1:8765/apks/com.huawei.maps.app-40000203.apk",
-    "iconUrl": "http://127.0.0.1:8765/icons/com.huawei.maps.app.png",
+    "apkUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/com.huawei.maps.app-40000203.apk",
+    "iconUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/com.huawei.maps.app.png",
     "description": "Petal Maps"
   },
   {
