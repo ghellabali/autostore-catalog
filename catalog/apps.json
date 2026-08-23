@@ -305,8 +305,8 @@
     "packageName": "org.videolan.vlc",
     "versionCode": 13060505,
     "versionName": "3.6.5",
-    "apkUrl": "http://127.0.0.1:8765/apks/org.videolan.vlc-13060505.apk",
-    "iconUrl": "http://127.0.0.1:8765/icons/org.videolan.vlc.png",
+    "apkUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/org.videolan.vlc-13060505.apk",
+    "iconUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/org.videolan.vlc.png",
     "description": "VLC"
   },
   {
