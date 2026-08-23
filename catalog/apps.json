@@ -165,8 +165,8 @@
     "packageName": "com.lynx.iptv",
     "versionCode": 10000011,
     "versionName": "1.20",
-    "apkUrl": "http://127.0.0.1:8765/apks/com.lynx.iptv-10000011.apk",
-    "iconUrl": "http://127.0.0.1:8765/icons/com.lynx.iptv.png",
+    "apkUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/com.lynx.iptv-10000011.apk",
+    "iconUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/com.lynx.iptv.png",
     "description": "Lynx"
   },
   {
