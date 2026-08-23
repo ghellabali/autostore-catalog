@@ -355,7 +355,7 @@
     "packageName": "app.revanced.android.youtube",
     "versionCode": 1557278144,
     "versionName": "20.40.45",
-    "apkUrl": "http://127.0.0.1:8765/apks/app.revanced.android.youtube-1557278144.apk",
+    "apkUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/app.revanced.android.youtube-1557278144.apk",
     "iconUrl": "",
     "description": "YouTube ReVanced"
   }
