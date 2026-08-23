@@ -275,8 +275,8 @@
     "packageName": "com.swag.performance.installer",
     "versionCode": 1,
     "versionName": "1.0",
-    "apkUrl": "http://127.0.0.1:8765/apks/com.swag.performance.installer-1.apk",
-    "iconUrl": "http://127.0.0.1:8765/icons/com.swag.performance.installer.png",
+    "apkUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/com.swag.performance.installer-1.apk",
+    "iconUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/com.swag.performance.installer.png",
     "description": "SWAG APP"
   },
   {
