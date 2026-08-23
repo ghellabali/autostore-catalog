@@ -60,16 +60,6 @@
     "description": "Ayah"
   },
   {
-    "id": "app_2",
-    "name": "Car Radio+",
-    "packageName": "com.example.radio",
-    "versionCode": 5,
-    "versionName": "1.4.0",
-    "apkUrl": "https://example.com/apks/com.example.radio-5.apk",
-    "iconUrl": "https://example.com/icons/com.example.radio.png",
-    "description": "FM, USB, and Bluetooth playback with large car controls."
-  },
-  {
     "id": "com_android_chrome",
     "name": "Chrome",
     "packageName": "com.android.chrome",
@@ -88,16 +78,6 @@
     "apkUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/systems.sieber.fsclock-38.apk",
     "iconUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/systems.sieber.fsclock.png",
     "description": "Clock"
-  },
-  {
-    "id": "app_3",
-    "name": "Dash Cam",
-    "packageName": "com.example.dashcam",
-    "versionCode": 8,
-    "versionName": "3.1.2",
-    "apkUrl": "https://example.com/apks/com.example.dashcam-8.apk",
-    "iconUrl": "https://example.com/icons/com.example.dashcam.png",
-    "description": "Loop recording and emergency lock for the front camera."
   },
   {
     "id": "com_sneig_livedrama",
@@ -198,16 +178,6 @@
     "apkUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/com.touchtype.swiftkey-1230831920.apk",
     "iconUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/com.touchtype.swiftkey.png",
     "description": "Microsoft SwiftKey Keyboard"
-  },
-  {
-    "id": "app_1",
-    "name": "Navigation Pro",
-    "packageName": "com.example.navpro",
-    "versionCode": 2,
-    "versionName": "2.0.0",
-    "apkUrl": "https://example.com/apks/com.example.navpro-2.apk",
-    "iconUrl": "https://example.com/icons/com.example.navpro.png",
-    "description": "Offline maps and turn-by-turn guidance for the dash."
   },
   {
     "id": "com_huawei_maps_app",
