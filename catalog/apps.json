@@ -25,7 +25,7 @@
     "packageName": "com.bilang042.aureseyes",
     "versionCode": 3,
     "versionName": "1.2",
-    "apkUrl": "http://127.0.0.1:8765/apks/com.bilang042.aureseyes-3.apk",
+    "apkUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/com.bilang042.aureseyes-3.apk",
     "iconUrl": "",
     "description": "Aures Eyes"
   },
