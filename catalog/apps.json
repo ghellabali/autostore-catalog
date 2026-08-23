@@ -210,16 +210,6 @@
     "description": "SmartTube"
   },
   {
-    "id": "com_suding_speedplay",
-    "name": "SpeedPlay",
-    "packageName": "com.suding.speedplay",
-    "versionCode": 1010,
-    "versionName": "sd_2.0.6",
-    "apkUrl": "https://github.com/ghellabali/autostore-catalog/releases/download/catalog/com.suding.speedplay-1010.apk",
-    "iconUrl": "",
-    "description": "SpeedPlay"
-  },
-  {
     "id": "com_dmkcv_sunray",
     "name": "Sunray Toolkit",
     "packageName": "com.dmkcv.sunray",
